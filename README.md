@@ -1,4 +1,3 @@
 # singraham.github.io
-Portfolio
 
-A portfolio for classwork and personal projects
+My portfolio of class projects
